@@ -1,2 +1,2 @@
 # -odin-recipes
-algo 
+A basic html structured page
